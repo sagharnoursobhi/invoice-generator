@@ -1,0 +1,23 @@
+{
+  "name": "invoicegenerator",
+  "version": "1.0.0",
+  "description": "invoice generator using React",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "invoice",
+    "generator",
+    "react",
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "Saghar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.1"
+  }
+}
