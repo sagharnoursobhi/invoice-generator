@@ -1,4 +1,4 @@
-//description about the data which will be stored to the database in called modelling
+//description about the data which will be stored to the database is called modelling
 
 const mongoose = require('mongoose');
 

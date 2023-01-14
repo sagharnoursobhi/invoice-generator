@@ -7,7 +7,7 @@ const bodyParser = require('body-parser');
 
 //create static web server
 //first argument specifies the path to directories that contains static files */
-//path.join(__dirname, 'dist)__dirname contains the path to the root directory and dist is a directory contains static files
+//path.join(__dirname, 'dist')__dirname contains the path to the root directory and dist is a directory contains static files
 app.use(express.static(path.join(__dirname, 'dist')));
 
 
